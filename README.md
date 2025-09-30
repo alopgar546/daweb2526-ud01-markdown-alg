@@ -44,3 +44,5 @@ public class Hola {
 
 ### Imagen desde URL externa (clicable)
 [![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/250px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg)](https://es.wikipedia.org/wiki/Cristiano_Ronaldo)
+
+Consulta el archivo [CHANGELOG.md](CHANGELOG.md) para ver el historial de cambios.
